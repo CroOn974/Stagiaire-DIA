@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    margin-bottom: 3em;
+}
+
+h1{
+    font-size: 2em;
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+}
+
+.card{
+
+    margin: 0 3em 3em 0;
+    text-align: center;
+    
+}
+
+.logo{
+    width: 150px;
+}
+
+/*footer*/
+footer{
+    background-color: rgb(27, 26, 26);
+}
+
