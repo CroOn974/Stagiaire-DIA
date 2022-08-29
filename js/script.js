@@ -23,8 +23,8 @@ function addElement () {
         correspond a : list_stag = lisr_stag + 'nouveau contenue'
         */
         list_stag += '<article class="col-md-3">';
-        list_stag += '<div class="card" style="width: 18rem;">';
-        list_stag += '<a href="page-stagiaire/hello' + num_stag + '.html" class="stretched-link"><img src="img/img-dia1.png" class="card-img-top" alt="Photo de ' + nom_stagiaire +'"></a>';
+        list_stag += '<div class="card">';
+        list_stag += '<a href="page-stagiaire/hello' + num_stag + '.html" class="stretched-link"><img src="img/img-dia' + num_stag + '.png" class="card-img-top img-taille" alt="Photo de ' + nom_stagiaire +'"></a>';
         list_stag += '<div class="card-body"></div>';
         list_stag += '<h5 class="card-title">' + nom_stagiaire + '</h5>';
         list_stag += '</div>';
