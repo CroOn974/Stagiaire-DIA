@@ -1,0 +1,42 @@
+nav{
+    margin-bottom: 3em;
+}
+
+h1{
+    font-size: 2em;
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+}
+
+body{
+    background-image: url('../img/eclair.jpg');
+  
+}
+
+#stagiaire{
+
+    background-color: rgb(88, 98, 107);
+    padding: 3em 0 3em 0;
+    margin-bottom: 3em;
+}
+
+#photo{
+    
+    text-align: center;
+
+}
+
+@media screen and (max-width: 768px){
+
+    #description{
+        text-align: center;
+        margin-top: 3em;
+    }
+
+    ul{
+        list-style: none;
+    }
+
+
+}
